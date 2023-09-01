@@ -4,7 +4,7 @@
   "description": "깃허브 레이블 세팅모음",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [
     "github",

@@ -1,0 +1,31 @@
+- name: "feat :sparkles:"
+  color: CBFFA9
+  description: 새로운 기능 추가
+
+- name: "fix :bug:"
+  color: DC3535
+  description: 버그 수정
+
+- name: "design :art:"
+  color: C9EEFF
+  description: 디자인 변경
+
+- name: "docs :books:"
+  color: FFCACC
+  description: 문서 추가/수정/삭제
+
+- name: "refactor :recycle:"
+  color: 98D8AA
+  description: 코드 리팩토링
+
+- name: "test :white_check_mark:"
+  color: DBC4F0
+  description: 테스트 코드 추가/수정/삭제
+
+- name: "chore :wrench:"
+  color: 98D8AA
+  description: 빌드 스크립트 수정
+
+- name: "question :question:"
+  color: DAC0A3
+  description: 질문

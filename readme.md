@@ -59,6 +59,13 @@ npm start
 
 ![simple-dev-label](sample-images/sample-dev.png)
 
+<br>
+
+## 참고
+
+- [github-label-sync](https://github.com/Financial-Times/github-label-sync)
+- [깃허브 이모지 모음](https://gist.github.com/rxaviers/7360908)
+
 ## Contributing
 
 저보다 잘 꾸미시는 분 하나 만들어서 PR 날려주세요..

@@ -1,0 +1,20 @@
+{
+  "name": "github-customlabel",
+  "version": "0.0.1",
+  "description": "깃허브 레이블 세팅모음",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "label"
+  ],
+  "author": "leemhoon00",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "github-label-sync": "^2.3.1",
+    "js-yaml": "^4.1.0"
+  }
+}

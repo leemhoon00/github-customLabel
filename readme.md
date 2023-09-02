@@ -29,18 +29,11 @@ GITHUB_TOKEN=YOUR_GITHUB_TOKEN  # 깃허브 액세스 토큰
 
 <br>
 
-labels 폴더에 있는 파일 중 사용할 템플릿을 선택해 index.js에 입력합니다.
+사용할 레이블 템플릿(labels 폴더에 있는 파일명)과 레이블을 적용할 레포지토리 명을 index.js에 입력합니다.
 
 ```javscript
-const labelName = "simple-dev-label";
-```
-
-<br>
-
-레이블을 적용할 레포지토리를 index.js에 입력합니다.
-
-```javscript
-repo: "username/repo-name"
+const labelName = "simple";
+const repoName = "leemhoon00/github-customLabel";
 ```
 
 <br>
@@ -55,7 +48,7 @@ npm start
 
 ## 레이블 템플릿
 
-### `simple-dev-label`
+### `simple`
 
 ![simple-dev-label](sample-images/sample-dev.png)
 

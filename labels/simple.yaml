@@ -31,3 +31,7 @@
 - name: "question :question:"
   color: DAC0A3
   description: 질문
+
+- name: "build :hammer:"
+  color: 00A1D6
+  description: 빌드 관련 수정

@@ -48,9 +48,10 @@ npm start
 
 ## 레이블 템플릿
 
-### `simple`
+|Simple|
+|---|
+|![image](https://github.com/leemhoon00/github-customLabel/assets/57895643/5d50622c-bf37-4106-8a66-34d200e57224)|
 
-![simple](sample-images/sample.png)
 
 <br>
 

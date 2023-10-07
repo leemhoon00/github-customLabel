@@ -50,7 +50,7 @@ npm start
 
 ### `simple`
 
-![simple-dev-label](sample-images/sample-dev.png)
+![simple](sample-images/sample.png)
 
 <br>
 

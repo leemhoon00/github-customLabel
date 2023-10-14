@@ -50,7 +50,7 @@ npm start
 
 |Simple|
 |---|
-|![image](https://github.com/leemhoon00/github-customLabel/assets/57895643/5d50622c-bf37-4106-8a66-34d200e57224)|
+|![image](https://github.com/leemhoon00/github-customLabel/assets/57895643/76b377d8-759c-4fb8-b478-fe44dd0fe92f)|
 
 
 <br>
